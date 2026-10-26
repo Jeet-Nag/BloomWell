@@ -1,0 +1,92 @@
+[
+  {
+    "id": "badge_first_sip",
+    "name": "First Sip Confirmed",
+    "nameHi": "पहला घूंट",
+    "description": "Logged and confirmed your very first water drinking session with photo verification.",
+    "descriptionHi": "फोटो सत्यापन के साथ अपना पहला पानी पीने का सत्र दर्ज किया।",
+    "category": "water",
+    "icon": "water_drop"
+  },
+  {
+    "id": "badge_hydration_hero_1d",
+    "name": "Daily Hydration Hero",
+    "nameHi": "हाइड्रेशन हीरो",
+    "description": "Reached 100% of your personalized conservative daily water target.",
+    "descriptionHi": "अपने दैनिक पानी का 100% लक्ष्य पूरा किया।",
+    "category": "water",
+    "icon": "local_drink"
+  },
+  {
+    "id": "badge_first_move",
+    "name": "First Gentle Step",
+    "nameHi": "पहला कदम",
+    "description": "Completed your first gentle beginner workout or yoga session.",
+    "descriptionHi": "अपना पहला योग या हल्का व्यायाम सत्र पूरा किया।",
+    "category": "exercise",
+    "icon": "directions_run"
+  },
+  {
+    "id": "badge_first_walk",
+    "name": "Outdoor Explorer",
+    "nameHi": "आउटडोर ट्रैकर",
+    "description": "Tracked a real outdoor walk or run session with GPS.",
+    "descriptionHi": "जीपीएस के साथ वास्तविक वॉक या रन सत्र रिकॉर्ड किया।",
+    "category": "exercise",
+    "icon": "map"
+  },
+  {
+    "id": "badge_first_weight_check",
+    "name": "Mindful Baseline",
+    "nameHi": "शुरुआती माप",
+    "description": "Recorded your baseline weight entry for the 15-day check-in cycle.",
+    "descriptionHi": "15-दिवसीय चक्र के लिए अपना वजन दर्ज किया।",
+    "category": "weight",
+    "icon": "monitor_weight"
+  },
+  {
+    "id": "badge_15day_checkin_complete",
+    "name": "15-Day Milestone",
+    "nameHi": "15-दिन की निरंतरता",
+    "description": "Completed a 15-day weight follow-up entry with patience and care.",
+    "descriptionHi": "15 दिनों के बाद धैर्यपूर्वक अपना वजन दोबारा दर्ज किया।",
+    "category": "weight",
+    "icon": "event_available"
+  },
+  {
+    "id": "badge_first_meal_plan",
+    "name": "Nourishing Choice",
+    "nameHi": "पौष्टिक आहार",
+    "description": "Explored and prepared a PCOD-friendly balanced meal from the offline planner.",
+    "descriptionHi": "ऑफ़लाइन योजनाकार से एक पौष्टिक भोजन बनाया या खाया।",
+    "category": "nutrition",
+    "icon": "restaurant"
+  },
+  {
+    "id": "badge_sleep_champion",
+    "name": "Restful Slumber",
+    "nameHi": "सुखद नींद",
+    "description": "Logged your bedtime and wake-up schedule to protect restorative rest.",
+    "descriptionHi": "अच्छी नींद के लिए सोने और उठने का समय दर्ज किया।",
+    "category": "sleep",
+    "icon": "nightlight_round"
+  },
+  {
+    "id": "badge_streak_3d",
+    "name": "3-Day Consistency",
+    "nameHi": "3-दिवसीय निरंतरता",
+    "description": "Maintained healthy daily habits for 3 consecutive days.",
+    "descriptionHi": "लगातार 3 दिनों तक स्वस्थ आदतें बनाई रखीं।",
+    "category": "streak",
+    "icon": "bolt"
+  },
+  {
+    "id": "badge_streak_7d",
+    "name": "7-Day Habit Blossom",
+    "nameHi": "7-दिवसीय पूर्ण सप्ताह",
+    "description": "A full week of mindful self-care and offline tracking.",
+    "descriptionHi": "आत्म-देखभाल का एक पूरा सप्ताह पूरा किया।",
+    "category": "streak",
+    "icon": "workspace_premium"
+  }
+]

@@ -1,0 +1,1454 @@
+[
+  {
+    "id": "mon_breakfast",
+    "dayOfWeek": 1,
+    "mealType": "breakfast",
+    "name": "Masala Oats (vegetables ke saath)",
+    "nameHi": "मसाला ओट्स (सब्जियों के साथ)",
+    "prepTimeMinutes": 15,
+    "approxCalories": 300,
+    "approxProteinG": 12.0,
+    "approxCarbsG": 40.0,
+    "approxFatG": 7.0,
+    "approxFiberG": 6.0,
+    "hostelCategories": [
+      "mess",
+      "kettle",
+      "shared_kitchen",
+      "full_kitchen"
+    ],
+    "budgetTier": "low",
+    "ingredients": [
+      {
+        "name": "Rolled / Quick Oats",
+        "quantity": "40 g (1/2 cup)"
+      },
+      {
+        "name": "Mixed veggies (carrots, peas, beans, capsicum)",
+        "quantity": "1/2 cup finely chopped"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1 small (chopped)"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "1 small (chopped)"
+      },
+      {
+        "name": "Green chili",
+        "quantity": "1 (finely chopped)"
+      },
+      {
+        "name": "Cumin seeds (jeera)",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "Turmeric powder",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "name": "Garam masala",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "name": "Mustard oil or Ghee",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Water",
+        "quantity": "1.5 cups"
+      },
+      {
+        "name": "Fresh coriander & salt",
+        "quantity": "To taste & garnish"
+      }
+    ],
+    "instructions": [
+      "Heat 1 tsp oil/ghee in a pan and splutter cumin seeds.",
+      "Add green chili and chopped onion; sauté for 1-2 minutes until translucent.",
+      "Add chopped tomato and cook until soft.",
+      "Stir in mixed vegetables, turmeric, garam masala, and salt. Cook for 2 minutes.",
+      "Pour 1.5 cups of water and bring to a gentle boil.",
+      "Add oats, lower the heat, and simmer for 4-5 minutes until oats are soft and creamy.",
+      "Garnish with fresh coriander and serve warm."
+    ],
+    "substitutions": [
+      "Steel-cut oats can be used (increase cook time to 15-20 min).",
+      "Add 2 tbsp grated paneer or tofu for extra morning protein."
+    ],
+    "prepAheadNote": "",
+    "pcodTip": ""
+  },
+  {
+    "id": "mon_lunch",
+    "dayOfWeek": 1,
+    "mealType": "lunch",
+    "name": "2 Roti + Moong Dal + Kheera Salad",
+    "nameHi": "2 रोटी + मूंग दाल + खीरा सलाद",
+    "prepTimeMinutes": 25,
+    "approxCalories": 300,
+    "approxProteinG": 12.0,
+    "approxCarbsG": 40.0,
+    "approxFatG": 7.0,
+    "approxFiberG": 6.0,
+    "hostelCategories": [
+      "mess",
+      "kettle",
+      "shared_kitchen",
+      "full_kitchen"
+    ],
+    "budgetTier": "low",
+    "ingredients": [
+      {
+        "name": "Whole wheat flour (Atta)",
+        "quantity": "For 2 medium rotis"
+      },
+      {
+        "name": "Yellow split moong dal",
+        "quantity": "1/3 cup (washed)"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "1 medium (chopped)"
+      },
+      {
+        "name": "Turmeric powder",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "name": "Cumin seeds",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "Ghee",
+        "quantity": "1 tsp for tadka"
+      },
+      {
+        "name": "Salt & water",
+        "quantity": "To taste & 1 cup water"
+      },
+      {
+        "name": "Kheera (Cucumber) / Salad",
+        "quantity": "1 sliced cucumber with lemon wedge"
+      }
+    ],
+    "instructions": [
+      "Cook washed moong dal with 1 cup water, turmeric, chopped tomato, and salt in pressure cooker for 2 whistles (or pot for 15 min).",
+      "Heat 1 tsp ghee in a ladle, splutter cumin seeds and a pinch of hing; pour tadka over cooked dal.",
+      "Knead atta with water and roll out 2 rotis. Cook on hot tawa until puffed and cooked through.",
+      "Slice fresh cucumber, squeeze lemon juice, and sprinkle rock salt.",
+      "Serve hot dal with 2 fresh whole wheat rotis and crunchy salad."
+    ],
+    "substitutions": [
+      "Yellow moong dal can be swapped with split green chilka moong for extra fiber."
+    ],
+    "prepAheadNote": "",
+    "pcodTip": ""
+  },
+  {
+    "id": "mon_dinner",
+    "dayOfWeek": 1,
+    "mealType": "dinner",
+    "name": "Soya Chunks ki Sabzi + 1 Roti",
+    "nameHi": "सोया चंक्स की सब्जी + 1 रोटी",
+    "prepTimeMinutes": 25,
+    "approxCalories": 300,
+    "approxProteinG": 12.0,
+    "approxCarbsG": 40.0,
+    "approxFatG": 7.0,
+    "approxFiberG": 6.0,
+    "hostelCategories": [
+      "mess",
+      "kettle",
+      "shared_kitchen",
+      "full_kitchen"
+    ],
+    "budgetTier": "low",
+    "ingredients": [
+      {
+        "name": "Soya chunks (Nutrela)",
+        "quantity": "35 g (1 cup dry)"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1 medium (chopped)"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "1 medium (chopped or pureed)"
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Cumin seeds",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "Spices (turmeric, coriander, garam masala)",
+        "quantity": "1/2 tsp each"
+      },
+      {
+        "name": "Cooking oil",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Atta",
+        "quantity": "For 1 roti (or side salad)"
+      },
+      {
+        "name": "Water & salt",
+        "quantity": "1 cup for gravy, salt to taste"
+      }
+    ],
+    "instructions": [
+      "Boil soya chunks in salted water for 8-10 minutes. Rinse with cold water and squeeze out excess water completely.",
+      "Heat 1 tsp oil in a pan; sauté squeezed soya chunks for 2 minutes and set aside.",
+      "In the same pan, splutter cumin seeds and sauté chopped onion and ginger-garlic paste until golden.",
+      "Add tomato and spices; cook until oil begins to separate.",
+      "Add soya chunks and 1 cup water. Simmer on low-medium flame for 7-8 minutes so chunks absorb gravy.",
+      "Make 1 whole wheat roti (or serve with salad). Serve warm."
+    ],
+    "substitutions": [
+      "Paneer cubes or pressed tofu can be cooked in the same aromatic gravy."
+    ],
+    "prepAheadNote": "",
+    "pcodTip": ""
+  },
+  {
+    "id": "tue_breakfast",
+    "dayOfWeek": 2,
+    "mealType": "breakfast",
+    "name": "Besan Cheela (pyaaz, tamatar daalkar)",
+    "nameHi": "बेसन चीला (प्याज, टमाटर डालकर)",
+    "prepTimeMinutes": 15,
+    "approxCalories": 300,
+    "approxProteinG": 12.0,
+    "approxCarbsG": 40.0,
+    "approxFatG": 7.0,
+    "approxFiberG": 6.0,
+    "hostelCategories": [
+      "mess",
+      "kettle",
+      "shared_kitchen",
+      "full_kitchen"
+    ],
+    "budgetTier": "low",
+    "ingredients": [
+      {
+        "name": "Besan (Gram flour)",
+        "quantity": "60 g (1/2 cup)"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 tbsp (finely chopped)"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "2 tbsp (finely chopped)"
+      },
+      {
+        "name": "Green chili & ginger",
+        "quantity": "1/2 tsp (chopped)"
+      },
+      {
+        "name": "Ajwain (Carom seeds)",
+        "quantity": "1/4 tsp (crushed)"
+      },
+      {
+        "name": "Turmeric powder",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "To taste"
+      },
+      {
+        "name": "Water",
+        "quantity": "~1/3 to 1/2 cup"
+      },
+      {
+        "name": "Cooking oil",
+        "quantity": "1 tsp"
+      }
+    ],
+    "instructions": [
+      "In a bowl, mix besan, ajwain, turmeric, and salt.",
+      "Gradually whisk in water to make a smooth, pourable lump-free batter.",
+      "Fold in chopped onion, tomato, green chili, ginger, and coriander.",
+      "Heat a flat tawa on medium heat and lightly grease with oil.",
+      "Pour a ladleful of batter and spread into a round disc.",
+      "Drizzle a few drops of oil on edges; cook for 2 minutes until golden crisp.",
+      "Flip carefully and cook the other side for 1-2 minutes.",
+      "Serve hot with homemade mint-coriander chutney."
+    ],
+    "substitutions": [
+      "Add finely shredded spinach or grated carrots for extra dietary fiber."
+    ],
+    "prepAheadNote": "",
+    "pcodTip": ""
+  },
+  {
+    "id": "tue_lunch",
+    "dayOfWeek": 2,
+    "mealType": "lunch",
+    "name": "2 Roti + Mix Veg Sabzi + Salad",
+    "nameHi": "2 रोटी + मिक्स वेज सब्जी + सलाद",
+    "prepTimeMinutes": 25,
+    "approxCalories": 300,
+    "approxProteinG": 12.0,
+    "approxCarbsG": 40.0,
+    "approxFatG": 7.0,
+    "approxFiberG": 6.0,
+    "hostelCategories": [
+      "mess",
+      "kettle",
+      "shared_kitchen",
+      "full_kitchen"
+    ],
+    "budgetTier": "low",
+    "ingredients": [
+      {
+        "name": "Mixed veggies (carrots, beans, peas, capsicum)",
+        "quantity": "1.5 cups chopped"
+      },
+      {
+        "name": "Onion & Tomato",
+        "quantity": "1 each (chopped)"
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Cumin seeds & dry spices (turmeric, coriander, jeera)",
+        "quantity": "1/4 tsp each"
+      },
+      {
+        "name": "Cooking oil",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Atta",
+        "quantity": "For 2 medium rotis"
+      },
+      {
+        "name": "Fresh Salad",
+        "quantity": "Sliced cucumber, tomato, onion"
+      }
+    ],
+    "instructions": [
+      "Heat oil in a pan, add cumin seeds, chopped onion, and ginger-garlic paste; sauté until golden.",
+      "Add tomato, turmeric, coriander powder, cumin powder, and salt. Cook until tomatoes soften.",
+      "Add mixed vegetables and 2 tbsp water. Cover and cook on low flame for 10-12 minutes until tender.",
+      "Roll and puff 2 whole wheat rotis on a hot tawa.",
+      "Serve dry mix veg sabzi with 2 warm rotis and fresh salad."
+    ],
+    "substitutions": [
+      "Toss in 30g paneer cubes or tofu cubes to boost vegetarian protein."
+    ],
+    "prepAheadNote": "",
+    "pcodTip": ""
+  },
+  {
+    "id": "tue_dinner",
+    "dayOfWeek": 2,
+    "mealType": "dinner",
+    "name": "Paneer Bhurji + Salad (No Roti)",
+    "nameHi": "पनीर भुर्जी + सलाद (बिना रोटी)",
+    "prepTimeMinutes": 15,
+    "approxCalories": 300,
+    "approxProteinG": 12.0,
+    "approxCarbsG": 40.0,
+    "approxFatG": 7.0,
+    "approxFiberG": 6.0,
+    "hostelCategories": [
+      "mess",
+      "kettle",
+      "shared_kitchen",
+      "full_kitchen"
+    ],
+    "budgetTier": "low",
+    "ingredients": [
+      {
+        "name": "Fresh Paneer",
+        "quantity": "100 g (crumbled)"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1 small (finely chopped)"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "1 small (finely chopped)"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "2 tbsp (finely chopped)"
+      },
+      {
+        "name": "Green chili & ginger",
+        "quantity": "1/2 tsp (chopped)"
+      },
+      {
+        "name": "Cumin seeds",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "Turmeric & Pav bhaji / Garam masala",
+        "quantity": "1/4 tsp each"
+      },
+      {
+        "name": "Ghee or butter",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Salad",
+        "quantity": "Sliced cucumber, carrot, and lemon"
+      }
+    ],
+    "instructions": [
+      "Heat 1 tsp ghee/butter in a pan and splutter cumin seeds.",
+      "Add chopped ginger, green chili, and onion; sauté until light golden.",
+      "Add capsicum and tomato; cook for 2 minutes until softened.",
+      "Add turmeric, pav bhaji masala, and salt.",
+      "Fold in fresh crumbled paneer and toss gently on medium heat for 2-3 minutes (avoid overcooking).",
+      "Garnish with coriander leaves.",
+      "Serve with a generous portion of crisp cucumber and carrot salad for a light, high-protein meal."
+    ],
+    "substitutions": [
+      "Firm crumbled tofu can be substituted for a 100% plant-based option."
+    ],
+    "prepAheadNote": "",
+    "pcodTip": ""
+  },
+  {
+    "id": "wed_breakfast",
+    "dayOfWeek": 3,
+    "mealType": "breakfast",
+    "name": "Oats Dalia Upma",
+    "nameHi": "ओट्स दलिया उपमा",
+    "prepTimeMinutes": 20,
+    "approxCalories": 300,
+    "approxProteinG": 12.0,
+    "approxCarbsG": 40.0,
+    "approxFatG": 7.0,
+    "approxFiberG": 6.0,
+    "hostelCategories": [
+      "mess",
+      "kettle",
+      "shared_kitchen",
+      "full_kitchen"
+    ],
+    "budgetTier": "low",
+    "ingredients": [
+      {
+        "name": "Broken wheat (Dalia) & Oats mix",
+        "quantity": "1/2 cup (equal parts)"
+      },
+      {
+        "name": "Mustard seeds (Rai)",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "Curry leaves",
+        "quantity": "6-8 leaves"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1 small (chopped)"
+      },
+      {
+        "name": "Mixed veggies (carrots, peas, beans)",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "Green chili",
+        "quantity": "1 (slit)"
+      },
+      {
+        "name": "Turmeric & salt",
+        "quantity": "To taste"
+      },
+      {
+        "name": "Oil or Ghee",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Water",
+        "quantity": "1.5 cups"
+      },
+      {
+        "name": "Lemon juice",
+        "quantity": "1 tsp"
+      }
+    ],
+    "instructions": [
+      "Dry roast the dalia in a pan on medium flame for 3-4 minutes until fragrant. Set aside.",
+      "Heat 1 tsp oil/ghee in the pan. Splutter mustard seeds and curry leaves.",
+      "Add chopped onion and green chili; sauté until translucent.",
+      "Add mixed vegetables, turmeric, and salt. Cook for 2 minutes.",
+      "Pour 1.5 cups of water and bring to a boil.",
+      "Add roasted dalia and oats. Stir thoroughly to prevent lumps.",
+      "Cover and simmer on low heat for 8-10 minutes until water is absorbed and grains are tender.",
+      "Turn off heat, squeeze fresh lemon juice, rest covered for 2 minutes, and serve."
+    ],
+    "substitutions": [
+      "Substitute dalia with semolina (sooji) or quinoa if preferred."
+    ],
+    "prepAheadNote": "",
+    "pcodTip": ""
+  },
+  {
+    "id": "wed_lunch",
+    "dayOfWeek": 3,
+    "mealType": "lunch",
+    "name": "Brown Rice + Kala Chana Curry",
+    "nameHi": "ब्राउन राइस + काला चना करी",
+    "prepTimeMinutes": 35,
+    "approxCalories": 300,
+    "approxProteinG": 12.0,
+    "approxCarbsG": 40.0,
+    "approxFatG": 7.0,
+    "approxFiberG": 6.0,
+    "hostelCategories": [
+      "mess",
+      "kettle",
+      "shared_kitchen",
+      "full_kitchen"
+    ],
+    "budgetTier": "low",
+    "ingredients": [
+      {
+        "name": "Brown rice",
+        "quantity": "1/3 cup (soaked 30 mins)"
+      },
+      {
+        "name": "Black chickpeas (Kala chana)",
+        "quantity": "1/3 cup (soaked overnight)"
+      },
+      {
+        "name": "Onion & Tomato",
+        "quantity": "1 small each (chopped)"
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Bay leaf & cumin seeds",
+        "quantity": "1 leaf, 1/2 tsp seeds"
+      },
+      {
+        "name": "Garam masala, coriander, turmeric",
+        "quantity": "1/2 tsp each"
+      },
+      {
+        "name": "Mustard oil",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Salt & water",
+        "quantity": "To taste"
+      }
+    ],
+    "instructions": [
+      "Pressure cook soaked kala chana with 1.5 cups water and salt for 5-6 whistles until soft.",
+      "Cook brown rice with 2.5 parts water until fluffy and tender (approx. 20-25 mins).",
+      "Heat oil in a pan; add bay leaf, cumin, and onion. Sauté until golden.",
+      "Add ginger-garlic paste, tomato, and dry spices; cook until aromatic.",
+      "Add boiled kala chana with cooking broth. Simmer on medium heat for 10 minutes.",
+      "Serve 1 katori brown rice with hot protein-packed kala chana curry."
+    ],
+    "substitutions": [
+      "Soaked white chickpeas (kabuli chana) or rajma can be used as alternatives."
+    ],
+    "prepAheadNote": "",
+    "pcodTip": ""
+  },
+  {
+    "id": "wed_dinner",
+    "dayOfWeek": 3,
+    "mealType": "dinner",
+    "name": "Soya Chunks Dry + 1 Roti",
+    "nameHi": "सोया चंक्स ड्राई + 1 रोटी",
+    "prepTimeMinutes": 20,
+    "approxCalories": 300,
+    "approxProteinG": 12.0,
+    "approxCarbsG": 40.0,
+    "approxFatG": 7.0,
+    "approxFiberG": 6.0,
+    "hostelCategories": [
+      "mess",
+      "kettle",
+      "shared_kitchen",
+      "full_kitchen"
+    ],
+    "budgetTier": "low",
+    "ingredients": [
+      {
+        "name": "Soya chunks",
+        "quantity": "35 g (boiled and squeezed)"
+      },
+      {
+        "name": "Onion & Capsicum",
+        "quantity": "1/2 cup diced stir-fry style"
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Mustard seeds & curry leaves",
+        "quantity": "1/2 tsp seeds, 5 leaves"
+      },
+      {
+        "name": "Black pepper & cumin powder",
+        "quantity": "1/2 tsp each"
+      },
+      {
+        "name": "Chaat masala & salt",
+        "quantity": "To taste"
+      },
+      {
+        "name": "Cooking oil",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Atta",
+        "quantity": "For 1 whole wheat roti"
+      }
+    ],
+    "instructions": [
+      "Boil, firmly squeeze, and halve the soya chunks.",
+      "Heat 1 tsp oil in a pan or wok. Add mustard seeds and curry leaves until crackling.",
+      "Add ginger-garlic paste, diced onion, and capsicum; stir-fry on high heat for 2 minutes.",
+      "Add soya chunks, black pepper, cumin powder, chaat masala, and salt.",
+      "Toss on high flame for 3-4 minutes until soya chunks are roasted and aromatic.",
+      "Serve hot with 1 whole wheat roti."
+    ],
+    "substitutions": [
+      "Paneer cubes or roasted mushrooms can replace soya chunks."
+    ],
+    "prepAheadNote": "",
+    "pcodTip": ""
+  },
+  {
+    "id": "thu_breakfast",
+    "dayOfWeek": 4,
+    "mealType": "breakfast",
+    "name": "Moong Dal Cheela (ready powder se)",
+    "nameHi": "मूंग दाल चीला (रेडी पाउडर से)",
+    "prepTimeMinutes": 12,
+    "approxCalories": 300,
+    "approxProteinG": 12.0,
+    "approxCarbsG": 40.0,
+    "approxFatG": 7.0,
+    "approxFiberG": 6.0,
+    "hostelCategories": [
+      "mess",
+      "kettle",
+      "shared_kitchen",
+      "full_kitchen"
+    ],
+    "budgetTier": "low",
+    "ingredients": [
+      {
+        "name": "Instant Moong Dal Flour / Powder",
+        "quantity": "60 g (1/2 cup)"
+      },
+      {
+        "name": "Grated ginger",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "Green chili",
+        "quantity": "1 (finely chopped)"
+      },
+      {
+        "name": "Hing (Asafoetida)",
+        "quantity": "1 pinch"
+      },
+      {
+        "name": "Jeera (Cumin powder)",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "name": "Fresh coriander",
+        "quantity": "1 tbsp chopped"
+      },
+      {
+        "name": "Salt",
+        "quantity": "To taste"
+      },
+      {
+        "name": "Water",
+        "quantity": "~1/2 cup"
+      },
+      {
+        "name": "Oil",
+        "quantity": "1 tsp for cooking"
+      }
+    ],
+    "instructions": [
+      "In a bowl, mix instant moong dal powder, hing, cumin powder, ginger, chili, and salt.",
+      "Gradually add water and whisk into a smooth pancake batter. Let it rest for 5 minutes.",
+      "Heat a tawa on medium heat and grease lightly with oil.",
+      "Pour a ladle of batter and spread evenly in circular motion.",
+      "Drizzle drops of oil along edges and cook for 2 minutes until crisp and golden.",
+      "Flip and cook the second side for 1 minute.",
+      "Fold and serve hot with fresh curd or green chutney."
+    ],
+    "substitutions": [
+      "Stuff with 2 tbsp of crumbled low-fat paneer for higher protein."
+    ],
+    "prepAheadNote": "",
+    "pcodTip": ""
+  },
+  {
+    "id": "thu_lunch",
+    "dayOfWeek": 4,
+    "mealType": "lunch",
+    "name": "2 Roti + Palak Sabzi + Salad",
+    "nameHi": "2 रोटी + पालक सब्जी + सलाद",
+    "prepTimeMinutes": 20,
+    "approxCalories": 300,
+    "approxProteinG": 12.0,
+    "approxCarbsG": 40.0,
+    "approxFatG": 7.0,
+    "approxFiberG": 6.0,
+    "hostelCategories": [
+      "mess",
+      "kettle",
+      "shared_kitchen",
+      "full_kitchen"
+    ],
+    "budgetTier": "low",
+    "ingredients": [
+      {
+        "name": "Fresh Spinach (Palak)",
+        "quantity": "2 cups washed & chopped"
+      },
+      {
+        "name": "Garlic cloves",
+        "quantity": "4-5 (finely sliced)"
+      },
+      {
+        "name": "Cumin seeds",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "Turmeric & red chili",
+        "quantity": "1/4 tsp each"
+      },
+      {
+        "name": "Mustard oil",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Atta",
+        "quantity": "For 2 medium rotis"
+      },
+      {
+        "name": "Fresh Salad",
+        "quantity": "Cucumber and radish slices"
+      }
+    ],
+    "instructions": [
+      "Heat 1 tsp mustard oil in a pan. Add cumin seeds and sliced garlic; sauté until golden fragrant.",
+      "Add turmeric and chopped spinach. Spinach will reduce rapidly in volume.",
+      "Cook uncovered on medium flame for 4-5 minutes until excess moisture evaporates.",
+      "Season with salt at the end to keep vibrant green color.",
+      "Make 2 fresh whole wheat rotis on tawa.",
+      "Serve flavorful lasooni palak sabzi with rotis and crisp salad."
+    ],
+    "substitutions": [
+      "Add diced boiled potato (aloo palak) or sweet corn for varied texture."
+    ],
+    "prepAheadNote": "",
+    "pcodTip": ""
+  },
+  {
+    "id": "thu_dinner",
+    "dayOfWeek": 4,
+    "mealType": "dinner",
+    "name": "Paneer & Veggie Stir-fry",
+    "nameHi": "पनीर और वेजी स्टिर-फ्राई",
+    "prepTimeMinutes": 15,
+    "approxCalories": 300,
+    "approxProteinG": 12.0,
+    "approxCarbsG": 40.0,
+    "approxFatG": 7.0,
+    "approxFiberG": 6.0,
+    "hostelCategories": [
+      "mess",
+      "kettle",
+      "shared_kitchen",
+      "full_kitchen"
+    ],
+    "budgetTier": "low",
+    "ingredients": [
+      {
+        "name": "Fresh Paneer",
+        "quantity": "100 g (cubed)"
+      },
+      {
+        "name": "Colorful veggies (bell peppers, carrots, beans, broccoli)",
+        "quantity": "1.5 cups chopped"
+      },
+      {
+        "name": "Garlic",
+        "quantity": "3 cloves (minced)"
+      },
+      {
+        "name": "Black pepper",
+        "quantity": "1/2 tsp freshly ground"
+      },
+      {
+        "name": "Cumin powder & lemon juice",
+        "quantity": "1/4 tsp cumin, 1 tsp lemon"
+      },
+      {
+        "name": "Olive oil or Ghee",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "To taste"
+      }
+    ],
+    "instructions": [
+      "Heat 1 tsp olive oil or ghee in a wide skillet over medium-high flame.",
+      "Add minced garlic and sauté for 30 seconds until fragrant.",
+      "Add harder vegetables (carrots, beans, broccoli) first; stir-fry for 3 minutes.",
+      "Add bell peppers and paneer cubes; sauté for another 3 minutes until paneer edges are golden.",
+      "Season with salt, black pepper, and cumin powder.",
+      "Squeeze lemon juice, toss well, and serve hot."
+    ],
+    "substitutions": [
+      "Extra firm tofu can be used instead of paneer for a vegan stir-fry."
+    ],
+    "prepAheadNote": "",
+    "pcodTip": ""
+  },
+  {
+    "id": "fri_breakfast",
+    "dayOfWeek": 5,
+    "mealType": "breakfast",
+    "name": "Masala Oats",
+    "nameHi": "मसाला ओट्स",
+    "prepTimeMinutes": 15,
+    "approxCalories": 300,
+    "approxProteinG": 12.0,
+    "approxCarbsG": 40.0,
+    "approxFatG": 7.0,
+    "approxFiberG": 6.0,
+    "hostelCategories": [
+      "mess",
+      "kettle",
+      "shared_kitchen",
+      "full_kitchen"
+    ],
+    "budgetTier": "low",
+    "ingredients": [
+      {
+        "name": "Rolled / Quick Oats",
+        "quantity": "40 g (1/2 cup)"
+      },
+      {
+        "name": "Mixed veggies (carrots, peas, beans, capsicum)",
+        "quantity": "1/2 cup finely chopped"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1 small (chopped)"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "1 small (chopped)"
+      },
+      {
+        "name": "Green chili",
+        "quantity": "1 (finely chopped)"
+      },
+      {
+        "name": "Cumin seeds (jeera)",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "Turmeric powder",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "name": "Garam masala",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "name": "Mustard oil or Ghee",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Water",
+        "quantity": "1.5 cups"
+      },
+      {
+        "name": "Fresh coriander & salt",
+        "quantity": "To taste & garnish"
+      }
+    ],
+    "instructions": [
+      "Heat 1 tsp oil/ghee in a pan and splutter cumin seeds.",
+      "Add green chili and chopped onion; sauté for 1-2 minutes until translucent.",
+      "Add chopped tomato and cook until soft.",
+      "Stir in mixed vegetables, turmeric, garam masala, and salt. Cook for 2 minutes.",
+      "Pour 1.5 cups of water and bring to a gentle boil.",
+      "Add oats, lower the heat, and simmer for 4-5 minutes until oats are soft and creamy.",
+      "Garnish with fresh coriander and serve warm."
+    ],
+    "substitutions": [
+      "Steel-cut oats can be used (increase cook time to 15-20 min).",
+      "Add 2 tbsp grated paneer or tofu for extra morning protein."
+    ],
+    "prepAheadNote": "",
+    "pcodTip": ""
+  },
+  {
+    "id": "fri_lunch",
+    "dayOfWeek": 5,
+    "mealType": "lunch",
+    "name": "2 Roti + Moong Dal + Salad",
+    "nameHi": "2 रोटी + मूंग दाल + सलाद",
+    "prepTimeMinutes": 25,
+    "approxCalories": 300,
+    "approxProteinG": 12.0,
+    "approxCarbsG": 40.0,
+    "approxFatG": 7.0,
+    "approxFiberG": 6.0,
+    "hostelCategories": [
+      "mess",
+      "kettle",
+      "shared_kitchen",
+      "full_kitchen"
+    ],
+    "budgetTier": "low",
+    "ingredients": [
+      {
+        "name": "Whole wheat flour (Atta)",
+        "quantity": "For 2 medium rotis"
+      },
+      {
+        "name": "Yellow split moong dal",
+        "quantity": "1/3 cup (washed)"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "1 medium (chopped)"
+      },
+      {
+        "name": "Turmeric powder",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "name": "Cumin seeds",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "Ghee",
+        "quantity": "1 tsp for tadka"
+      },
+      {
+        "name": "Salt & water",
+        "quantity": "To taste & 1 cup water"
+      },
+      {
+        "name": "Kheera (Cucumber) / Salad",
+        "quantity": "1 sliced cucumber with lemon wedge"
+      }
+    ],
+    "instructions": [
+      "Cook washed moong dal with 1 cup water, turmeric, chopped tomato, and salt in pressure cooker for 2 whistles (or pot for 15 min).",
+      "Heat 1 tsp ghee in a ladle, splutter cumin seeds and a pinch of hing; pour tadka over cooked dal.",
+      "Knead atta with water and roll out 2 rotis. Cook on hot tawa until puffed and cooked through.",
+      "Slice fresh cucumber, squeeze lemon juice, and sprinkle rock salt.",
+      "Serve hot dal with 2 fresh whole wheat rotis and crunchy salad."
+    ],
+    "substitutions": [
+      "Yellow moong dal can be swapped with split green chilka moong for extra fiber."
+    ],
+    "prepAheadNote": "",
+    "pcodTip": ""
+  },
+  {
+    "id": "fri_dinner",
+    "dayOfWeek": 5,
+    "mealType": "dinner",
+    "name": "Veg Dalia Khichdi (one-pot meal)",
+    "nameHi": "वेज दलिया खिचड़ी (वन-पॉट मील)",
+    "prepTimeMinutes": 26,
+    "approxCalories": 300,
+    "approxProteinG": 12.0,
+    "approxCarbsG": 40.0,
+    "approxFatG": 7.0,
+    "approxFiberG": 6.0,
+    "hostelCategories": [
+      "mess",
+      "kettle",
+      "shared_kitchen",
+      "full_kitchen"
+    ],
+    "budgetTier": "low",
+    "ingredients": [
+      {
+        "name": "Broken wheat (Dalia)",
+        "quantity": "1/3 cup"
+      },
+      {
+        "name": "Yellow split moong dal",
+        "quantity": "2 tbsp (washed)"
+      },
+      {
+        "name": "Mixed veggies (peas, carrots, beans, tomato)",
+        "quantity": "1/2 cup chopped"
+      },
+      {
+        "name": "Cumin seeds & Hing",
+        "quantity": "1/2 tsp cumin, 1 pinch hing"
+      },
+      {
+        "name": "Turmeric powder",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "name": "Ghee",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Water & salt",
+        "quantity": "2 cups water, salt to taste"
+      }
+    ],
+    "instructions": [
+      "Dry roast dalia in pressure cooker or pan for 2-3 minutes until nutty; set aside.",
+      "Heat 1 tsp ghee in pressure cooker. Splutter cumin seeds and hing.",
+      "Add chopped vegetables, turmeric, and salt; stir for 1 minute.",
+      "Add roasted dalia, washed moong dal, and 2 cups of water.",
+      "Close lid and cook for 3-4 whistles on medium heat.",
+      "Allow steam to release naturally. Stir gently to a porridge-like comforting consistency.",
+      "Serve hot with a spoonful of homemade curd."
+    ],
+    "substitutions": [
+      "Quinoa or brown rice can be cooked with moong dal in the same one-pot style."
+    ],
+    "prepAheadNote": "",
+    "pcodTip": ""
+  },
+  {
+    "id": "sat_breakfast",
+    "dayOfWeek": 6,
+    "mealType": "breakfast",
+    "name": "Besan Cheela",
+    "nameHi": "बेसन चीला",
+    "prepTimeMinutes": 15,
+    "approxCalories": 300,
+    "approxProteinG": 12.0,
+    "approxCarbsG": 40.0,
+    "approxFatG": 7.0,
+    "approxFiberG": 6.0,
+    "hostelCategories": [
+      "mess",
+      "kettle",
+      "shared_kitchen",
+      "full_kitchen"
+    ],
+    "budgetTier": "low",
+    "ingredients": [
+      {
+        "name": "Besan (Gram flour)",
+        "quantity": "60 g (1/2 cup)"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 tbsp (finely chopped)"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "2 tbsp (finely chopped)"
+      },
+      {
+        "name": "Green chili & ginger",
+        "quantity": "1/2 tsp (chopped)"
+      },
+      {
+        "name": "Ajwain (Carom seeds)",
+        "quantity": "1/4 tsp (crushed)"
+      },
+      {
+        "name": "Turmeric powder",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "To taste"
+      },
+      {
+        "name": "Water",
+        "quantity": "~1/3 to 1/2 cup"
+      },
+      {
+        "name": "Cooking oil",
+        "quantity": "1 tsp"
+      }
+    ],
+    "instructions": [
+      "In a bowl, mix besan, ajwain, turmeric, and salt.",
+      "Gradually whisk in water to make a smooth, pourable lump-free batter.",
+      "Fold in chopped onion, tomato, green chili, ginger, and coriander.",
+      "Heat a flat tawa on medium heat and lightly grease with oil.",
+      "Pour a ladleful of batter and spread into a round disc.",
+      "Drizzle a few drops of oil on edges; cook for 2 minutes until golden crisp.",
+      "Flip carefully and cook the other side for 1-2 minutes.",
+      "Serve hot with homemade mint-coriander chutney."
+    ],
+    "substitutions": [
+      "Add finely shredded spinach or grated carrots for extra dietary fiber."
+    ],
+    "prepAheadNote": "",
+    "pcodTip": ""
+  },
+  {
+    "id": "sat_lunch",
+    "dayOfWeek": 6,
+    "mealType": "lunch",
+    "name": "Kala Chana Chaat (uble chane + veggies)",
+    "nameHi": "काला चना चाट (उबले चने + सब्जियां)",
+    "prepTimeMinutes": 15,
+    "approxCalories": 300,
+    "approxProteinG": 12.0,
+    "approxCarbsG": 40.0,
+    "approxFatG": 7.0,
+    "approxFiberG": 6.0,
+    "hostelCategories": [
+      "mess",
+      "kettle",
+      "shared_kitchen",
+      "full_kitchen"
+    ],
+    "budgetTier": "low",
+    "ingredients": [
+      {
+        "name": "Boiled black chickpeas (Kala chana)",
+        "quantity": "1 cup tender & drained"
+      },
+      {
+        "name": "Cucumber",
+        "quantity": "1/2 cup diced"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "1/2 cup diced"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1/4 cup finely chopped"
+      },
+      {
+        "name": "Green chili & coriander",
+        "quantity": "1 tbsp chopped"
+      },
+      {
+        "name": "Roasted cumin powder (Bhuna jeera)",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "Chaat masala & black salt",
+        "quantity": "1/2 tsp each"
+      },
+      {
+        "name": "Fresh lemon juice",
+        "quantity": "1.5 tbsp"
+      }
+    ],
+    "instructions": [
+      "In a mixing bowl, place warm or room-temperature boiled kala chana.",
+      "Toss in diced cucumber, tomato, onion, green chili, and coriander.",
+      "Season with roasted cumin powder, chaat masala, and black salt.",
+      "Drizzle fresh lemon juice and toss thoroughly until uniformly coated.",
+      "Enjoy immediately as a high-fiber, high-protein refreshing meal."
+    ],
+    "substitutions": [
+      "Add sprouted moong or roasted peanuts for extra crunch and nutrients."
+    ],
+    "prepAheadNote": "",
+    "pcodTip": ""
+  },
+  {
+    "id": "sat_dinner",
+    "dayOfWeek": 6,
+    "mealType": "dinner",
+    "name": "Soya Chunks ki Sabzi + Salad",
+    "nameHi": "सोया चंक्स की सब्जी + सलाद",
+    "prepTimeMinutes": 25,
+    "approxCalories": 300,
+    "approxProteinG": 12.0,
+    "approxCarbsG": 40.0,
+    "approxFatG": 7.0,
+    "approxFiberG": 6.0,
+    "hostelCategories": [
+      "mess",
+      "kettle",
+      "shared_kitchen",
+      "full_kitchen"
+    ],
+    "budgetTier": "low",
+    "ingredients": [
+      {
+        "name": "Soya chunks (Nutrela)",
+        "quantity": "35 g (1 cup dry)"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1 medium (chopped)"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "1 medium (chopped or pureed)"
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Cumin seeds",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "Spices (turmeric, coriander, garam masala)",
+        "quantity": "1/2 tsp each"
+      },
+      {
+        "name": "Cooking oil",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Atta",
+        "quantity": "For 1 roti (or side salad)"
+      },
+      {
+        "name": "Water & salt",
+        "quantity": "1 cup for gravy, salt to taste"
+      }
+    ],
+    "instructions": [
+      "Boil soya chunks in salted water for 8-10 minutes. Rinse with cold water and squeeze out excess water completely.",
+      "Heat 1 tsp oil in a pan; sauté squeezed soya chunks for 2 minutes and set aside.",
+      "In the same pan, splutter cumin seeds and sauté chopped onion and ginger-garlic paste until golden.",
+      "Add tomato and spices; cook until oil begins to separate.",
+      "Add soya chunks and 1 cup water. Simmer on low-medium flame for 7-8 minutes so chunks absorb gravy.",
+      "Make 1 whole wheat roti (or serve with salad). Serve warm."
+    ],
+    "substitutions": [
+      "Paneer cubes or pressed tofu can be cooked in the same aromatic gravy."
+    ],
+    "prepAheadNote": "",
+    "pcodTip": ""
+  },
+  {
+    "id": "sun_breakfast",
+    "dayOfWeek": 7,
+    "mealType": "breakfast",
+    "name": "Moong Dal Cheela (ready powder se)",
+    "nameHi": "मूंग दाल चीला (रेडी पाउडर से)",
+    "prepTimeMinutes": 12,
+    "approxCalories": 300,
+    "approxProteinG": 12.0,
+    "approxCarbsG": 40.0,
+    "approxFatG": 7.0,
+    "approxFiberG": 6.0,
+    "hostelCategories": [
+      "mess",
+      "kettle",
+      "shared_kitchen",
+      "full_kitchen"
+    ],
+    "budgetTier": "low",
+    "ingredients": [
+      {
+        "name": "Instant Moong Dal Flour / Powder",
+        "quantity": "60 g (1/2 cup)"
+      },
+      {
+        "name": "Grated ginger",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "Green chili",
+        "quantity": "1 (finely chopped)"
+      },
+      {
+        "name": "Hing (Asafoetida)",
+        "quantity": "1 pinch"
+      },
+      {
+        "name": "Jeera (Cumin powder)",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "name": "Fresh coriander",
+        "quantity": "1 tbsp chopped"
+      },
+      {
+        "name": "Salt",
+        "quantity": "To taste"
+      },
+      {
+        "name": "Water",
+        "quantity": "~1/2 cup"
+      },
+      {
+        "name": "Oil",
+        "quantity": "1 tsp for cooking"
+      }
+    ],
+    "instructions": [
+      "In a bowl, mix instant moong dal powder, hing, cumin powder, ginger, chili, and salt.",
+      "Gradually add water and whisk into a smooth pancake batter. Let it rest for 5 minutes.",
+      "Heat a tawa on medium heat and grease lightly with oil.",
+      "Pour a ladle of batter and spread evenly in circular motion.",
+      "Drizzle drops of oil along edges and cook for 2 minutes until crisp and golden.",
+      "Flip and cook the second side for 1 minute.",
+      "Fold and serve hot with fresh curd or green chutney."
+    ],
+    "substitutions": [
+      "Stuff with 2 tbsp of crumbled low-fat paneer for higher protein."
+    ],
+    "prepAheadNote": "",
+    "pcodTip": ""
+  },
+  {
+    "id": "sun_lunch",
+    "dayOfWeek": 7,
+    "mealType": "lunch",
+    "name": "Brown Rice + Moong Dal + Mix Veg",
+    "nameHi": "ब्राउन राइस + मूंग दाल + मिक्स वेज",
+    "prepTimeMinutes": 30,
+    "approxCalories": 300,
+    "approxProteinG": 12.0,
+    "approxCarbsG": 40.0,
+    "approxFatG": 7.0,
+    "approxFiberG": 6.0,
+    "hostelCategories": [
+      "mess",
+      "kettle",
+      "shared_kitchen",
+      "full_kitchen"
+    ],
+    "budgetTier": "low",
+    "ingredients": [
+      {
+        "name": "Brown rice",
+        "quantity": "1/3 cup"
+      },
+      {
+        "name": "Yellow split moong dal",
+        "quantity": "1/3 cup"
+      },
+      {
+        "name": "Mixed veggies (carrots, beans, peas)",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "Cumin seeds & turmeric",
+        "quantity": "1/2 tsp each"
+      },
+      {
+        "name": "Ghee & salt",
+        "quantity": "1 tsp ghee, salt to taste"
+      }
+    ],
+    "instructions": [
+      "Cook brown rice in 2.5 parts water until soft and tender.",
+      "Cook moong dal with turmeric, salt, and water. Temper with cumin seeds in 1 tsp ghee.",
+      "Lightly sauté mixed vegetables in 1/2 tsp oil with a pinch of cumin and salt until crisp-tender.",
+      "Serve brown rice with comforting yellow dal and sautéed vegetables."
+    ],
+    "substitutions": [
+      "White rice or millets (foxtail or barnyard) can substitute brown rice."
+    ],
+    "prepAheadNote": "",
+    "pcodTip": ""
+  },
+  {
+    "id": "sun_dinner",
+    "dayOfWeek": 7,
+    "mealType": "dinner",
+    "name": "Paneer Bhurji + Salad",
+    "nameHi": "पनीर भुर्जी + सलाद",
+    "prepTimeMinutes": 15,
+    "approxCalories": 300,
+    "approxProteinG": 12.0,
+    "approxCarbsG": 40.0,
+    "approxFatG": 7.0,
+    "approxFiberG": 6.0,
+    "hostelCategories": [
+      "mess",
+      "kettle",
+      "shared_kitchen",
+      "full_kitchen"
+    ],
+    "budgetTier": "low",
+    "ingredients": [
+      {
+        "name": "Fresh Paneer",
+        "quantity": "100 g (crumbled)"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1 small (finely chopped)"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "1 small (finely chopped)"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "2 tbsp (finely chopped)"
+      },
+      {
+        "name": "Green chili & ginger",
+        "quantity": "1/2 tsp (chopped)"
+      },
+      {
+        "name": "Cumin seeds",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "Turmeric & Pav bhaji / Garam masala",
+        "quantity": "1/4 tsp each"
+      },
+      {
+        "name": "Ghee or butter",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Salad",
+        "quantity": "Sliced cucumber, carrot, and lemon"
+      }
+    ],
+    "instructions": [
+      "Heat 1 tsp ghee/butter in a pan and splutter cumin seeds.",
+      "Add chopped ginger, green chili, and onion; sauté until light golden.",
+      "Add capsicum and tomato; cook for 2 minutes until softened.",
+      "Add turmeric, pav bhaji masala, and salt.",
+      "Fold in fresh crumbled paneer and toss gently on medium heat for 2-3 minutes (avoid overcooking).",
+      "Garnish with coriander leaves.",
+      "Serve with a generous portion of crisp cucumber and carrot salad for a light, high-protein meal."
+    ],
+    "substitutions": [
+      "Firm crumbled tofu can be substituted for a 100% plant-based option."
+    ],
+    "prepAheadNote": "",
+    "pcodTip": ""
+  }
+]

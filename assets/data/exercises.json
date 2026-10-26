@@ -1,0 +1,239 @@
+[
+  {
+    "id": "ex_warmup_neck_shoulder",
+    "name": "Gentle Neck & Shoulder Rolls",
+    "nameHi": "गर्दन और कंधों का वॉर्मअप",
+    "category": "warmup",
+    "difficulty": "gentle",
+    "durationSeconds": 60,
+    "repetitions": null,
+    "targetMuscles": "Cervical spine, Trapezius, Shoulders",
+    "instructions": [
+      "Sit or stand tall with relaxed shoulders.",
+      "Gently roll your shoulders backward 10 times in a slow circle, then forward 10 times.",
+      "Lower your right ear toward your right shoulder for 10 seconds, then repeat on the left.",
+      "Breathe smoothly without forcing any stretch."
+    ],
+    "safetyPrecautions": "Do not drop your head backward abruptly or roll forcefully.",
+    "easierModification": "Perform seated comfortably against a chair back.",
+    "benefits": "Releases upper body tension from studying or desk work, improving circulation.",
+    "iconName": "accessibility"
+  },
+  {
+    "id": "ex_warmup_ankle_hip",
+    "name": "Hip Circles & Ankle Rotations",
+    "nameHi": "हिप सर्कल्स और टखने का घुमाव",
+    "category": "warmup",
+    "difficulty": "gentle",
+    "durationSeconds": 90,
+    "repetitions": null,
+    "targetMuscles": "Hips, Pelvic girdle, Ankles",
+    "instructions": [
+      "Stand with feet shoulder-width apart, hands on hips.",
+      "Make smooth, controlled hula-hoop circles with your hips, 8 times clockwise, 8 times anticlockwise.",
+      "Lift one foot slightly and rotate the ankle 10 times each way, then switch legs."
+    ],
+    "safetyPrecautions": "Keep knees soft; avoid hyperextending.",
+    "easierModification": "Hold onto a sturdy wall or hostel bed for balance.",
+    "benefits": "Warms up synovial fluid in pelvic joints before movement.",
+    "iconName": "rotate_right"
+  },
+  {
+    "id": "ex_yoga_cat_cow",
+    "name": "Cat-Cow Stretch (Marjaryasana-Bitilasana)",
+    "nameHi": "मार्जरी-बिटिलासन (कैट-काउ स्ट्रेच)",
+    "category": "yoga",
+    "difficulty": "gentle",
+    "durationSeconds": 120,
+    "repetitions": "8-10 slow breaths",
+    "targetMuscles": "Spine, Abdominals, Pelvic Floor",
+    "instructions": [
+      "Start on all fours with wrists under shoulders and knees under hips on a mat or soft rug.",
+      "Inhale (Cow): Gently drop your belly toward the mat, lift your chest and gaze slightly upward.",
+      "Exhale (Cat): Draw your navel toward your spine and gently round your back, letting your neck relax.",
+      "Flow slowly with your natural breath rhythm."
+    ],
+    "safetyPrecautions": "Keep wrists soft; if wrists feel sore, make fists or rest on forearms.",
+    "easierModification": "Can be done seated in a chair by curving and arching the torso with hands on knees.",
+    "benefits": "Gently massages pelvic and abdominal organs, relieving cramps and stiffness.",
+    "iconName": "pets"
+  },
+  {
+    "id": "ex_yoga_butterfly",
+    "name": "Butterfly Pose (Baddha Konasana)",
+    "nameHi": "बद्ध कोणासन (तितली आसन)",
+    "category": "yoga",
+    "difficulty": "easy",
+    "durationSeconds": 120,
+    "repetitions": "Hold and gentle flap",
+    "targetMuscles": "Inner thighs, Groin, Pelvic floor",
+    "instructions": [
+      "Sit on the floor with your spine straight. Bend your knees and bring the soles of your feet together.",
+      "Hold your feet or ankles with your hands.",
+      "Gently flutter your knees up and down like butterfly wings for 30 seconds, then hold steady and breathe deeply.",
+      "Keep your shoulders down and relaxed."
+    ],
+    "safetyPrecautions": "Do not force your knees down to the floor. Use cushions under knees if needed.",
+    "easierModification": "Place a folded blanket or hostel pillow under your hips.",
+    "benefits": "Improves blood flow to the pelvic region and ovaries, easing menstrual discomfort.",
+    "iconName": "spa"
+  },
+  {
+    "id": "ex_yoga_legs_up_wall",
+    "name": "Legs-Up-The-Wall (Viparita Karani)",
+    "nameHi": "विपरीत करणी (दीवार के सहारे पैर)",
+    "category": "yoga",
+    "difficulty": "gentle",
+    "durationSeconds": 300,
+    "repetitions": "5 minutes rest",
+    "targetMuscles": "Hamstrings, Lower Back, Nervous System",
+    "instructions": [
+      "Lie down on your back and swing your legs up against a clear wall or hostel wardrobe.",
+      "Rest your arms out to the sides, palms facing up.",
+      "Close your eyes and breathe slowly through your nose.",
+      "Let your hips sink into the floor and release all tension."
+    ],
+    "safetyPrecautions": "If your hamstrings feel tight, scoot your hips a few inches away from the wall.",
+    "easierModification": "Place a soft pillow under your lower back for elevated comfort.",
+    "benefits": "Activates the parasympathetic nervous system, easing tension and lowering cortisol (stress hormone) to support hormonal balance in PCOD.",
+    "iconName": "hotel"
+  },
+  {
+    "id": "ex_strength_glute_bridge",
+    "name": "Gentle Glute Bridges",
+    "nameHi": "ग्लूट ब्रिज",
+    "category": "strength",
+    "difficulty": "beginner",
+    "durationSeconds": 90,
+    "repetitions": "12 reps x 2 sets",
+    "targetMuscles": "Glutes, Hamstrings, Core, Pelvic Stabilizers",
+    "instructions": [
+      "Lie on your back with knees bent and feet flat on the floor, hip-width apart.",
+      "Place your arms at your sides with palms flat.",
+      "Press through your heels to lift your hips until your thighs and torso form a straight line.",
+      "Pause for 2 seconds at the top, squeezing glutes gently, then slowly lower down."
+    ],
+    "safetyPrecautions": "Do not arch your lower back excessively at the top.",
+    "easierModification": "Lift hips only halfway up or reduce to 6-8 reps.",
+    "benefits": "Strengthens posterior chain without stressing joints; large muscle activation improves insulin sensitivity.",
+    "iconName": "fitness_center"
+  },
+  {
+    "id": "ex_strength_wall_pushup",
+    "name": "Wall Push-Ups",
+    "nameHi": "दीवार पुश-अप",
+    "category": "strength",
+    "difficulty": "beginner",
+    "durationSeconds": 90,
+    "repetitions": "10-12 reps x 2 sets",
+    "targetMuscles": "Chest, Shoulders, Triceps, Core",
+    "instructions": [
+      "Stand facing a wall, about an arm's length away.",
+      "Place your palms flat on the wall at shoulder height and shoulder-width apart.",
+      "Slowly bend your elbows and bring your chest toward the wall, keeping your body in a straight plank.",
+      "Push through your palms back to the starting position."
+    ],
+    "safetyPrecautions": "Ensure your feet are on a non-slip floor.",
+    "easierModification": "Step closer to the wall to decrease the angle and effort.",
+    "benefits": "Builds upper-body strength safely without putting pressure on wrists or knees on the floor.",
+    "iconName": "pan_tool"
+  },
+  {
+    "id": "ex_strength_chair_squats",
+    "name": "Chair Sit-to-Stands (Box Squats)",
+    "nameHi": "कुर्सी सिट-टू-स्टैंड",
+    "category": "strength",
+    "difficulty": "beginner",
+    "durationSeconds": 120,
+    "repetitions": "10 reps x 2 sets",
+    "targetMuscles": "Quadriceps, Glutes, Hamstrings",
+    "instructions": [
+      "Stand in front of a sturdy chair or hostel bed with feet shoulder-width apart.",
+      "Extend your arms forward for balance.",
+      "Push your hips back and bend your knees as if sitting down until you lightly touch the chair.",
+      "Drive through your heels to return to standing tall."
+    ],
+    "safetyPrecautions": "Keep your knees in line with your toes; do not let knees cave inward.",
+    "easierModification": "Fully sit on the chair for 1 second between reps before standing up.",
+    "benefits": "Functional lower body strength that stimulates glucose uptake by the quadriceps.",
+    "iconName": "chair"
+  },
+  {
+    "id": "ex_strength_bird_dog",
+    "name": "Bird-Dog Core Stabilizer",
+    "nameHi": "बर्ड-डॉग संतुलन व्यायाम",
+    "category": "strength",
+    "difficulty": "beginner",
+    "durationSeconds": 120,
+    "repetitions": "8 reps per side",
+    "targetMuscles": "Deep core, Multifidus, Glutes, Deltoids",
+    "instructions": [
+      "Start on hands and knees with a flat back.",
+      "Slowly reach your right arm straight forward while extending your left leg straight back.",
+      "Hold for 2 seconds while maintaining a level pelvis.",
+      "Return to all fours with control, then repeat on opposite sides."
+    ],
+    "safetyPrecautions": "Avoid twisting or dropping your hips to one side.",
+    "easierModification": "Lift only one leg or one arm at a time without moving both simultaneously.",
+    "benefits": "Safely strengthens core and spinal stability with zero crunching or abdominal pressure.",
+    "iconName": "pan_tool_alt"
+  },
+  {
+    "id": "ex_walk_easy_stroll",
+    "name": "Post-Meal Brisk Walk (15-20 min)",
+    "nameHi": "भोजन के बाद 15-20 मिनट की सैर",
+    "category": "walking",
+    "difficulty": "easy",
+    "durationSeconds": 1200,
+    "repetitions": null,
+    "targetMuscles": "Legs, Cardiovascular system, Metabolism",
+    "instructions": [
+      "Step outside on the campus track, hostel corridors, or nearby garden 20-30 minutes after lunch or dinner.",
+      "Maintain a comfortable pace where you can comfortably carry on a conversation.",
+      "Swing arms naturally and keep your shoulders relaxed."
+    ],
+    "safetyPrecautions": "Wear supportive walking shoes and stay hydrated in hot weather.",
+    "easierModification": "Break into two 10-minute sessions or walk in place indoors.",
+    "benefits": "Supports healthy post-meal glucose management, which is a key gentle lifestyle habit for metabolic wellness in PCOD.",
+    "iconName": "directions_walk"
+  },
+  {
+    "id": "ex_cooldown_childs_pose",
+    "name": "Child's Pose (Balasana)",
+    "nameHi": "बालासन (चाइल्ड्स पोज़)",
+    "category": "cooldown",
+    "difficulty": "gentle",
+    "durationSeconds": 180,
+    "repetitions": "Hold and breathe",
+    "targetMuscles": "Hips, Thighs, Spine, Mind",
+    "instructions": [
+      "Kneel on the floor, bring big toes together, and separate knees hip-distance or wider.",
+      "Lower your hips toward your heels and fold forward, resting your forehead on the floor or a pillow.",
+      "Extend your arms forward or rest them alongside your legs.",
+      "Inhale into your lower back and exhale deeply."
+    ],
+    "safetyPrecautions": "If you have knee discomfort, place a rolled towel behind your knees.",
+    "easierModification": "Place a thick pillow under your chest and abdomen.",
+    "benefits": "Calms the sympathetic nervous system and decompresses the lumbar spine.",
+    "iconName": "child_care"
+  },
+  {
+    "id": "ex_recovery_rest_day",
+    "name": "Mindful Rest & Hydration Recovery",
+    "nameHi": "विश्राम और रिकवरी दिवस",
+    "category": "recovery",
+    "difficulty": "gentle",
+    "durationSeconds": 600,
+    "repetitions": "Full day rest",
+    "targetMuscles": "Full body recovery",
+    "instructions": [
+      "Today is dedicated to physical restoration.",
+      "Focus on adequate water intake, gentle stretching if desired, and restorative sleep.",
+      "Listen to your body without feeling guilty about resting."
+    ],
+    "safetyPrecautions": "Rest is an essential physiological part of fitness and hormonal health, not laziness.",
+    "easierModification": "A short 5-minute slow stroll if you feel restless.",
+    "benefits": "Allows muscle fibers to repair and prevents chronic cortisol accumulation.",
+    "iconName": "bedtime"
+  }
+]
